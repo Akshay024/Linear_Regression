@@ -3,7 +3,7 @@
 This is my first ML project using python libraries like numpy,matplotlib,sys,etc.(without using inbuilt Linear Regression )
 
 
-#Problem Description:
+# Problem Description:
 Imagine you are working in a fashion e-commerce startup. You have to predict the yearly amount spent by customers,for  your team to device business strategies.
 
 
