@@ -1,6 +1,6 @@
 # Linear_Regression
 
-This is my first ML project using following python libraries like numpy,matplotlib,sys,etc.
+This is my first ML project using following python libraries like numpy,matplotlib,sys,etc.(without using inbuilt Linear Regression )
 
 Here are some helpful links:
   1.Some videos are useful from this playlist to understand topics:
