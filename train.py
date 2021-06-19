@@ -35,7 +35,7 @@ def train_model(X,Y):
     X=np.insert(X,0,1,axis=1)
     Y=Y.reshape(len(X),1)
     W=np.zeros((X.shape[1],1))
-    W=optimize_weights_using_gradient_descent(X,Y,W,10,0.0001)
+    W=optimize_weights_using_gradient_descent(X,Y,W,55429101,0.0002105)
 
     return W
     
