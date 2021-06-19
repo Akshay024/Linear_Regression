@@ -1,10 +1,12 @@
 # Linear_Regression
 
 This is my first ML project using python libraries like numpy,matplotlib,sys,etc.(without using inbuilt Linear Regression )
+This project is to understand the underlying mechanics of linear regression  
 
 Problem Description:
 
 Imagine you are working in a fashion e-commerce startup. You have to predict the yearly amount spent by customers,for  your team to device business strategies.
+our motive is to get MSE below 400.
 
 
 Here are some helpful links:
